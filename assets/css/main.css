@@ -24493,43 +24493,43 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   border: none;
 }
 
-.vl-project6-area {
+.vl-naga-farm-area {
   overflow: hidden;
   background: #183f2d;
 }
 
-.project6-box:hover .project6-thumb-content {
+.naga-farm-box:hover .naga-farm-thumb-content {
   height: 152px;
   transition: 0.4s;
 }
 
-.project6-box:hover .project6-thumb-content .title a {
+.naga-farm-box:hover .naga-farm-thumb-content .title a {
   color: var(--ztc-text-text-23);
   transition: 0.4s;
 }
 
-.project6-box:hover .project6-thumb-content .pera-text {
+.naga-farm-box:hover .naga-farm-thumb-content .pera-text {
   opacity: 1;
   visibility: visible;
   transition: 0.3s;
 }
 
-.project6-box:hover .content_arrow img {
+.naga-farm-box:hover .content_arrow img {
   transform: rotate(360deg);
   transition: 0.4s;
 }
 
-.project6-box:hover .project6-thumb .imgs {
+.naga-farm-box:hover .naga-farm-thumb .imgs {
   transform: scale(1.05) rotate(0deg);
 }
 
-.project6-thumb {
+.naga-farm-thumb {
   position: relative;
   overflow: hidden;
   border-radius: 12px;
 }
 
-.project6-thumb .imgs {
+.naga-farm-thumb .imgs {
   border-radius: 12px;
   height: 100%;
   width: 100%;
@@ -24537,7 +24537,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   transition: all 1s;
 }
 
-.project6-thumb-content {
+.naga-farm-thumb-content {
   position: absolute;
   left: 24px;
   right: 24px;
@@ -24551,7 +24551,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
   z-index: 9;
 }
 
-.project6-thumb-content .title a {
+.naga-farm-thumb-content .title a {
   color: var(--ztc-text-text-25);
   font-family: var(--ztc-family-font2);
   font-size: var(--ztc-font-size-font-s24);
@@ -24561,12 +24561,12 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .project6-thumb-content .title a {
+  .naga-farm-thumb-content .title a {
     font-size: 22px;
   }
 }
 
-.project6-thumb-content .pera-text {
+.naga-farm-thumb-content .pera-text {
   margin-top: 16px;
   color: rgba(26, 86, 50, 0.8);
   font-size: var(--ztc-font-size-font-s16);
@@ -24578,7 +24578,7 @@ only screen and (min-width: 768px) and (max-width: 991px) {
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .project6-thumb-content .pera-text {
+  .naga-farm-thumb-content .pera-text {
     font-size: 15px;
   }
 }
@@ -25893,8 +25893,8 @@ a {
 }
 
 /* Force whole thumb area to show pointer cursor */
-.project6-thumb,
-.project6-thumb a.gallery-item {
+.naga-farm-thumb,
+.naga-farm-thumb a.gallery-item {
   cursor: pointer !important;
 }
 
@@ -26044,7 +26044,7 @@ button.mfp-arrow-left:hover {
   transform: scale(1.05) !important;
 }
 
-.project6-thumb-content .arrow_wrap .title{
+.naga-farm-thumb-content .arrow_wrap .title{
   color: var(--ztc-text-text-23);
     font-family: var(--ztc-family-font2);
     font-size: var(--ztc-font-size-font-s24);
