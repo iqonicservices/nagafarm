@@ -13418,6 +13418,7 @@ html.rd-navbar-fixed-linked .page {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 1170px;
+	/* box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.25); */
 }
 
 @media (min-width: 1200px) {
@@ -21522,4 +21523,3 @@ html#ecwid_html body#ecwid_body .ec-size.ec-size--m .ec-store .details-gallery__
 		margin-bottom: 0 !important;
 	}
 }
-
